@@ -17,3 +17,5 @@ https://blog.csdn.net/liuchonge/article/details/78205974
 ## 代码解读
 
 https://blog.csdn.net/irving_zhang/article/details/78113251
+
+https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow
